@@ -1,0 +1,127 @@
+﻿<!DOCTYPE html />
+<html>
+<head>
+<title></title>
+ <link href="StyleSheet.css" rel="Stylesheet" type="text/css" />
+</head>
+
+
+<body>
+<header>
+<p>Fuentes, Erandy Homework 3</p>
+</header>
+
+
+ <hr />
+  <nav>
+ <div>
+
+<ul>
+<li><a href="aboutme.html">About Me</a></li>
+
+
+<li><a href="webformdemo.htm">Form</a></li>
+<li><a href="index.html">Home</a></li>
+
+
+
+</ul>
+ </div>
+  
+ 
+ </nav>
+
+
+
+
+
+
+<h2>Welcome to my Web Form</h2>
+<h4> A Demo Form for a Hotel Room Reservation</h4>
+
+ 
+ <form action="mail to:Erandyfuentes@yahoo.com" method="post" enctype="text/plain" autocomplete="on">
+
+ <fieldset>
+  <legend>
+  Customer Information
+  </legend>
+  Full Name
+  <input type="text" id="Custinfo" name="Fullname" value="Firstname Lastname" autofocus required /> 
+  <br/>
+  Email Address:
+  <input type="email" id="Custinfo" name="UserEmail" required />
+  <br />
+  Phone Number:
+  <input type="tel" id="Custinfo" name="usertelephone" required />
+ </fieldset>
+
+  <br />
+ <fieldset>
+  <legend>
+  Room Information:
+  </legend>
+  Arrival Date:
+  <input type="date" id="roominfo" name="Arrival Date:" required />
+  <br />
+ Arrival Time:
+  <input type="time" id="roominfo" name="Arrival Time:" required />   
+  <br />
+  Select a Room Type:
+  <select id="roominfo" name:"list" required>
+  <option value="Luxury">Luxury</option>
+  <option value="Econocmic">Economic</option>
+  <option value="Standard">Standard</option>
+  </select>
+  <br />
+  Number of Nights (Valid number is from 1-30):
+  <input type="number" id="roominfo" Name="nn" min="1" max="30" required />
+  
+  <br />
+  Number of Guests(The maximum guests is 3):
+
+ <input type="number" id="roominfo" name="numofg"    min="1" max="3" required />
+ </fieldset>
+
+  <br />
+
+&nbsp;
+<fieldset>
+  <legend>
+  Other Information
+  </legend>
+  Promo Code:
+   <input type="text" name="Promo Code" value pattern="[a-z, A-Z,0-9]"/>
+
+<br />
+
+Special Note:
+<textarea name="Special Note:" rows="5" cols="40">
+Enter your special notes here
+</textarea>
+
+ </fieldset>
+ 
+ <br />
+
+<button type="reset">Clear Form</button>
+<button type="submit">Request Reservation</button>
+</form>
+
+   <footer>
+     <address>
+     <ul>
+     <li> Erandy Fuentes@ Contact Information
+      </li>
+     <li><a href="mailto:erandyfuentes@yahoo.com">erandyfuentes@yahoo.com</a>  
+     </li>
+     <li> Phone:
+     <a href="callto:1-562-682-0233">(562)682-0233</a>
+     </li>
+     </ul>
+     </address>
+       
+</footer>
+
+</body>
+</html>

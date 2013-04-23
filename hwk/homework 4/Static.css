@@ -1,0 +1,53 @@
+﻿body { width: 1120px;
+       margin-left: auto;
+       margin-right: auto;
+}
+header
+{
+    width:1120px;
+    background-color:#191970;
+    text-align: center;
+    color: white ;
+    height: 30px
+    }
+ nav
+ {
+     width: 1120px;
+     background-color:#ADFF2F;
+     text-align: center;
+     height: 30px;
+ }
+ 
+ nav li
+{ display: inline;
+  margin: 30px;
+}
+
+na li a:link
+{color: White;}
+
+article
+{width: 720px;
+    background-color: #FF00FF;
+    color: White;
+}
+
+article section
+{background-color: #CD853F;
+ margin: 20px 0px 20px;
+ height: 100px;
+ color:White;
+}
+aside{width: 400px;
+      height: 275px;
+      color:White;
+      background-color: #20B2AA}
+      
+      
+ footer
+ {width: 1120px;
+  background-color: #ADFF2F;
+  height: 40px;
+  text-align:center;
+  color: white;}
+     
