@@ -26,7 +26,7 @@
 
 <main>
 <h2>
-    Welcome to My Home Page</h2>
+    Welcome to My Home Pages</h2>
 <h4>
     Please click on a link to visit my other pages</h4>
 </main> 
