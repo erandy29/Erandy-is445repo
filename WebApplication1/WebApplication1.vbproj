@@ -157,7 +157,7 @@
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
     <Content Include="default.aspx" />
-    <Content Include="WebFormdDemo.aspx" />
+    <Content Include="WebFormDemo.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AboutMe.aspx.designer.vb">
@@ -240,11 +240,11 @@
       <DependentUpon>default.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
-    <Compile Include="WebFormdDemo.aspx.designer.vb">
-      <DependentUpon>WebFormdDemo.aspx</DependentUpon>
+    <Compile Include="WebFormDemo.aspx.designer.vb">
+      <DependentUpon>WebFormDemo.aspx</DependentUpon>
     </Compile>
-    <Compile Include="WebFormdDemo.aspx.vb">
-      <DependentUpon>WebFormdDemo.aspx</DependentUpon>
+    <Compile Include="WebFormDemo.aspx.vb">
+      <DependentUpon>WebFormDemo.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
   </ItemGroup>

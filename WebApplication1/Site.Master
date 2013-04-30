@@ -19,12 +19,12 @@
     <form id="form1" runat="server">
         <nav>
             <ul>
-            <li><a href="aboutme.aspx">About Me</a>    </li>
+            <li><a href="AboutMe.aspx">About Me</a>    </li>
 
 
-            <li><a href="webformdemo.aspx">Form</a>
+            <li><a href="WebFormDemo.aspx">Form</a>
             </li>
-            <li><a href="webFormdemo1.aspx">Home</a>
+            <li><a href="default.aspx">Home</a>
             </li>
 
             </ul>
