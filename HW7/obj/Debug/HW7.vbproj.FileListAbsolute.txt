@@ -1,0 +1,8 @@
+C:\Users\ERANDY\Documents\GitHub\Erandy-is445repo\HW7\bin\HW7.dll
+C:\Users\ERANDY\Documents\GitHub\Erandy-is445repo\HW7\bin\HW7.pdb
+C:\Users\ERANDY\Documents\GitHub\Erandy-is445repo\HW7\bin\HW7.xml
+C:\Users\ERANDY\Documents\GitHub\Erandy-is445repo\HW7\obj\Debug\HW7.Resources.resources
+C:\Users\ERANDY\Documents\GitHub\Erandy-is445repo\HW7\obj\Debug\HW7.vbproj.GenerateResource.Cache
+C:\Users\ERANDY\Documents\GitHub\Erandy-is445repo\HW7\obj\Debug\HW7.dll
+C:\Users\ERANDY\Documents\GitHub\Erandy-is445repo\HW7\obj\Debug\HW7.xml
+C:\Users\ERANDY\Documents\GitHub\Erandy-is445repo\HW7\obj\Debug\HW7.pdb
