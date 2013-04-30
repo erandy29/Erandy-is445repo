@@ -6,7 +6,7 @@
         About Myself</h2>
 
     <p>
-    <img  src="ery1_n.jpg" />
+        <img src="ery%2021.jpg" style="height: 249px; width: 137px" />
         </p>
     <p class="em">
         Education 
