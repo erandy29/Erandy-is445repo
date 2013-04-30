@@ -153,6 +153,7 @@
     <Content Include="Account\Register.aspx" />
     <Content Include="Account\RegisterExternalLogin.aspx" />
     <Content Include="css\StyleSheet1.css" />
+    <Content Include="ery 21.jpg" />
     <Content Include="packages.config" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
