@@ -31,9 +31,33 @@ HW7
  Module used to define the properties that are available in the My Namespace for Web projects.
  </summary>
 	<remarks></remarks>
-</member><member name="F:HW7.NestedLoop1.Button1">
+</member><member name="F:HW7.NumberDivision1.NumberTextBox">
 	<summary>
-Button1 control.
+NumberTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HW7.NumberDivision1.CalculateButton">
+	<summary>
+CalculateButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HW7.NestedLoop1.NestedTextBox">
+	<summary>
+NestedTextBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:HW7.NestedLoop1.NestedCalculateButton">
+	<summary>
+NestedCalculateButton control.
 </summary>
 	<remarks>
 Auto-generated field.

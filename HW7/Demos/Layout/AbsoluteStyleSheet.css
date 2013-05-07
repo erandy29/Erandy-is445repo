@@ -1,4 +1,4 @@
-﻿header
+﻿header.absolute
 {
     width:720px;
     background-color:#191970;
@@ -8,22 +8,23 @@
     }
  nav
  {
-     width: 720px;
+     width: 760px;
      background-color:#ADFF2F;
      text-align: center;
      height: 30px;
  }
  
  nav li
-{ display: inline;
-  margin: 30px;
+{ float:left;
+  display: block;
+  margin: 5px;
 }
 
 na li a:link
 {color: White;}
 
 article
-{width: 720px;
+{width: 230px;
     background-color: #FF00FF;
     color: White;
 }
@@ -32,24 +33,27 @@ article section
 {background-color: #CD853F;
  margin: 20px 0px 20px;
  height: 100px;
- color:White;
+ color:blue;
 }
-aside{width: 400px;
+aside{width: 575px;
       height: 275px;
       color:White;
-      background-color: #20B2AA}
+      background-color: #20B2AA;
+      position:absolute;
+       left: 720px;
+       top: 275px;
+}
       
       
  footer
- {width: 720px;
+ {width: 575px;
   background-color: #ADFF2F;
-  height: 40px;
+  height: 5px;
   text-align:center;
+  display:block;
+  font-size: 20px;
+clear:right;
+float: right;
   color: white;}
 
-   aside
-   {    
-       position:absolute;
-       left: 720px;
-       top: 60px;
-   }  
+

@@ -3,9 +3,11 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
-    <h1> Server Side Demo</h1>
+    <h2> Nested Loop Server Side Demo</h2>
     <p> &nbsp;</p>
-
+    <br />
+    <h1>Please enter a number between 2 and 10</h1>
     <script src="hw5JScript.js" type="text/javascript"></script>
-    <asp:Button ID="Button1" runat="server" Text="Button" />
+    <asp:TextBox ID="NestedTextBox" runat="server"></asp:TextBox>
+    <asp:Button ID="NestedCalculateButton" runat="server" Text="Calculate" />
 </asp:Content>

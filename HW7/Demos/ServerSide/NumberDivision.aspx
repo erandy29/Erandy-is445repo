@@ -2,7 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <h2> Server Side Demo</h2>
+    <h2> Number Division Server Side Demo</h2>
     <p> &nbsp;</p>
     <br />
     <h1>Please input a number between 2 and 10 <h1 />

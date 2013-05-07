@@ -4,8 +4,6 @@
     
     <link href="AbsoluteStyleSheet.css" rel="stylesheet" />
 
-    this is where the css goes
-
 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -14,7 +12,7 @@
 
 
 
-  <header>&lt;Header&gt;</header>
+  <header class="absolute">&lt;Header&gt;</header>
 
   <nav>
     <ul>
@@ -32,7 +30,7 @@
     <section>&lt;Section Two&gt;</section>
   </article>
   <aside>&lt;Aside&gt;</aside>
-  <footer>&lt;Footer&gt;</footer>
+  <footer>Footer</footer>
 
 
 
