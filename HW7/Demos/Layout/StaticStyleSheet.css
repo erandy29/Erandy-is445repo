@@ -4,7 +4,7 @@
 }
 header
 {
-    width:1120px;
+    width:720px;
     background-color:#191970;
     text-align: center;
     color: white ;
@@ -12,7 +12,7 @@ header
     }
  nav
  {
-     width: 1120px;
+     width: 720px;
      background-color:#ADFF2F;
      text-align: center;
      height: 30px;

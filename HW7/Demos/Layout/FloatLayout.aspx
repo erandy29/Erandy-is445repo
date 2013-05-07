@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="~/Site1.Master" CodeBehind="FloatLayout.aspx.vb" Inherits="HW7.FloatLayout" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 
-    <link href="StaticStyleSheet.css" rel="stylesheet" />
+    
     <link href="FloatStyleSheet.css" rel="stylesheet" />
 
 
