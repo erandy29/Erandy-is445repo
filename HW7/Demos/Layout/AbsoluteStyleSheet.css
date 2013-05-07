@@ -1,6 +1,6 @@
 ﻿header
 {
-    width:1120px;
+    width:720px;
     background-color:#191970;
     text-align: center;
     color: white ;
@@ -8,7 +8,7 @@
     }
  nav
  {
-     width: 1120px;
+     width: 720px;
      background-color:#ADFF2F;
      text-align: center;
      height: 30px;
@@ -41,11 +41,12 @@ aside{width: 400px;
       
       
  footer
- {width: 1120px;
+ {width: 720px;
   background-color: #ADFF2F;
   height: 40px;
   text-align:center;
   color: white;}
+
    aside
    {    
        position:absolute;
