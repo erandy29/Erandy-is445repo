@@ -5,48 +5,50 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
     <title>hwk7</title>
+
+    <link href="css/resetstylesheet.css" rel="stylesheet" />
     <link href="css/StyleSheet1.css" rel="stylesheet" />
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
 <body>
     <header>
-        <p> Fuentes, Erandy Homework 7</p>
+        <p> &nbsp;</p>
+        <p> &nbsp;</p>
+        <p> Erandy Fuentes ASP.NET Website in Windows Azure</p>
     </header>
-    <hr />
+  
     <form id="form1" runat="server">
-        <nav>
-                       <ul>
-          <li><a href="AboutMe.aspx">About Me</a>    </li>
+        <div class="nav">
 
+            &nbsp;<asp:Menu ID="Menu1" runat="server" DataSourceID="SiteMapDataSource2" Orientation="Horizontal" StaticEnableDefaultPopOutImage="False">
+                <DynamicHoverStyle BackColor="#FFCCFF" />
+                <DynamicMenuItemStyle BackColor="#CCFF33" />
+            </asp:Menu>
+            <asp:SiteMapDataSource ID="SiteMapDataSource2" runat="server" ShowStartingNode="False" />
+            <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" ShowStartingNode="False" />
 
-           <li><a href="WebFormDemo.aspx">Form</a>
-          </li>
-           <li><a href="default.aspx">Home</a>
-           </li>
-          </ul>
+        </div>
+        <div class="sidenav">
 
-        </nav>
-    <div>
+            <asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSource1">
+            </asp:TreeView>
+
+        </div>
+       
+    <div class="mainbody">
+            <br />
+        <asp:SiteMapPath ID="SiteMapPath1" runat="server"></asp:SiteMapPath>
+
+        <br />
+        <br />
+
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
         
         </asp:ContentPlaceHolder>
     </div>
-            <footer>
-            <address>
-            <ul>
-             <li> Erandy Fuentes@ Contact Information 
-            </li>
-            <li><a href="mailto:Erandyfuentes@yahoo.com">erandyfuentes@yahoo.com</a>
-            </li>
-            <li> Phone: 
-            <a href="callto:1-562-682-0233">(562)682-0233</a>
-            </li>
-            </ul>
-            </address>
-       
-    </footer>
-
+           
+        <footer></footer>
 
     </form>
 </body>

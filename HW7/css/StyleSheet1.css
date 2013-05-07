@@ -1,8 +1,20 @@
 ﻿body 
-{width:600px;
+{      width:1020px;
        margin-left:auto;   
-         margin-right:auto;}
-    
+       margin-right:auto;
+
+}
+
+div.body {
+    width: 350px;
+    float:left;
+    background-color:white;
+}
+div.sidenav {
+    width: 200px;
+    float:left;
+    background-color:white;
+}
 header p  
 {
 	font-size: 2em;
@@ -32,13 +44,45 @@ nav li	{
 	display:inline;
 	padding:0px 20px;
 	}
-navigation a: hoover
- {
-      text-decoration: underline;
-  color: red;
-  text-transform: uppercase;
- }
 
+navigation a: hover {
+    text-decoration: underline;
+    color: red;
+    text-transform: uppercase;
+}
+
+div.nav li
+{
+    padding: 0px 50.5px;
+    background-color: #009999;
+    
+}
+
+div.nav a:visited
+{color: white;}
+
+div.nav a:hover
+{background-color:lavender;
+    color: black;}
+
+div.nav a:link
+{color: white;}
+
+
+div.sidenav 
+
+{
+    width: 200px;
+    margin: auto;
+    background-color: #66FFFF ;
+}
+
+
+div.mainbody {
+    width: 800px;
+    background-color: pink;
+    float: left;
+}
 
  /*footer code*/       
         
@@ -49,6 +93,7 @@ navigation a: hoover
 	margin: 0px;
 	padding: 20px 0px 0px 0px;
 	font-size: .7em;
+    clear: both;
 	}
 
 footer ul {
@@ -84,20 +129,22 @@ hr{
         }
 
  h2{ text-align: center;
-    color:Blue;}
+    color:Blue;
+    font-size: 35px;
+ }
  
  h4{text-align:center;
-       color:Fuchsia;}
+       color:Fuchsia;
+       font-size: 20px;
+ }
+img.me {
+    width: 200px;
+    float: right;
 
+}
+#incorrect {color:Red;}
+h3 {border-style: solid;
+    padding: 12px;
+    border-color: Green; }
       
-fieldset{width: 380px;
-         heiht: 380PX;}
-
-form { border-style:outset;
-      border-color: Green;
-      padding :10px;}
-       p.normal {font-style:normal;}
        
-p.em {text-decoration: underline; font-weight:bold; color:Fuchsia;}
-.center {text-align:center}
-p.about{text-decoration: underline; font-weight:bold;font-size: x-large}

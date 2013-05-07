@@ -41,6 +41,51 @@ Partial Public Class Site1
     Protected WithEvents form1 As Global.System.Web.UI.HtmlControls.HtmlForm
 
     '''<summary>
+    '''Menu1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents Menu1 As Global.System.Web.UI.WebControls.Menu
+
+    '''<summary>
+    '''SiteMapDataSource2 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents SiteMapDataSource2 As Global.System.Web.UI.WebControls.SiteMapDataSource
+
+    '''<summary>
+    '''SiteMapDataSource1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents SiteMapDataSource1 As Global.System.Web.UI.WebControls.SiteMapDataSource
+
+    '''<summary>
+    '''TreeView1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents TreeView1 As Global.System.Web.UI.WebControls.TreeView
+
+    '''<summary>
+    '''SiteMapPath1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents SiteMapPath1 As Global.System.Web.UI.WebControls.SiteMapPath
+
+    '''<summary>
     '''ContentPlaceHolder1 control.
     '''</summary>
     '''<remarks>

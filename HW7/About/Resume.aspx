@@ -1,13 +1,13 @@
-﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="~/Site1.Master" CodeBehind="AboutMe.aspx.vb" Inherits="HW7.AboutMe" %>
+﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="~/Site1.Master" CodeBehind="Resume.aspx.vb" Inherits="HW7._Resume" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <h2>
+     <h2>
         About Myself</h2>
 
     <p>
-        <img src="ery%2021.jpg" style="height: 219px; width: 203px" />
-        </p>
+
+        &nbsp;<img class="me" alt="" src="ery%2021.jpg" /></p>
     <p class="em">
         Education 
     </p>

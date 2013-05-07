@@ -1,12 +1,12 @@
-﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="~/Site1.Master" CodeBehind="WebFormDemo.aspx.vb" Inherits="HW7.WebFormDemo" %>
+﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="~/Site1.Master" CodeBehind="WebForm.aspx.vb" Inherits="HW7.WebFormDemo" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
         <h2>Welcome to my Web Form</h2>
-<h4> A Demo Form for a Hotel Room Reservation</h4>
+        <h4> A Demo Form for a Hotel Room Reservation</h4>
 
  
- <form action="mail to:Erandyfuentes@yahoo.com" method="post" enctype="text/plain" autocomplete="on">
+ <form action="../mail%20to:Erandyfuentes@yahoo.com" method="post" enctype="text/plain" autocomplete="on">
 
  <fieldset>
   <legend>
