@@ -1,5 +1,10 @@
 ﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="~/Site1.Master" CodeBehind="FloatLayout.aspx.vb" Inherits="HW7.FloatLayout" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+
+    <link href="StaticStyleSheet.css" rel="stylesheet" />
+    <link href="FloatStyleSheet.css" rel="stylesheet" />
+
+
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
    
@@ -31,5 +36,5 @@
   <footer>&lt;Footer&gt;</footer>
 
 
-    this is for the float code
+   
 </asp:Content>

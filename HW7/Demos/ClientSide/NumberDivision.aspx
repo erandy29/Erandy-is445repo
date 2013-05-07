@@ -6,5 +6,5 @@
 
     <script src="hw5JScriptdiv.js" type="text/javascript"></script>
   
-    this is for number division
+    
 </asp:Content>

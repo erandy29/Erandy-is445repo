@@ -9,7 +9,22 @@
 
         &nbsp;<img class="me" alt="" src="ery%2021.jpg" /></p>
     <p class="em">
-        Education 
+        &nbsp;</p>
+     <p class="em">
+        STRENGHTS
+         <br />
+
+        <li>Type 45wpm</li> 
+         <li> Microsoft Word,Excel  </li>
+        <li>Lotus Notes</li> 
+         <br />
+         Software
+         <br />
+        <li> People Soft   </li> 
+         <li>Singularity</li>
+        <li> OCR, SAP   </li> 
+         <br />
+         Education 
     </p>
     <ul> 
         <li>

@@ -2,5 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    this is clien side
+    Clien Side Demo<br />
+    These Demos are designed to interact with the user using code that runs using the client side. 
+
 </asp:Content>

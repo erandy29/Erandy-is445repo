@@ -1,6 +1,8 @@
 ﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="~/Site1.Master" CodeBehind="AbsoluteLayout.aspx.vb" Inherits="HW7.AbsoluteLayout" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-  
+    <link href="StaticStyleSheet.css" rel="stylesheet" />
+    <link href="AbsoluteStyleSheet.css" rel="stylesheet" />
+
     this is where the css goes
 
 
@@ -34,5 +36,4 @@
 
 
 
-    This is where i put the information from the absolute homework code
 </asp:Content>

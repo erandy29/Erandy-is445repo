@@ -98,6 +98,7 @@
     <Content Include="Demos\Layout\FloatLayout.aspx" />
     <Content Include="Demos\Layout\FloatStyleSheet.css" />
     <Content Include="Demos\Layout\Layout.aspx" />
+    <Content Include="Demos\Layout\ResetStyleSheet.css" />
     <Content Include="Demos\Layout\StaticLayout.aspx" />
     <Content Include="Demos\Layout\StaticStyleSheet.css" />
     <Content Include="Demos\ServerSide\NestedLoop.aspx" />
