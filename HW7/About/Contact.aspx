@@ -3,17 +3,23 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
-
+    <h2>Contact Information</h2>
 
     Thank You for taking your time to look at my website.
     If you are interested please contact me.
-     <ul>
+
+    <ul>
+     <li>
+         
      Contact Information
       </li>
+
      <li><a href="mailto:Erandyfuentes@yahoo.com">ERANDYFUENTES@YAHOO.COM</a> 
       </li>
+
      <li> Phone: <a href="callto:1-562-682-0233">(562)682-0233</a>
      </li>
+
      </ul>
 
 

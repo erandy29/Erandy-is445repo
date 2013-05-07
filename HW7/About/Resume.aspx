@@ -2,8 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-     <h2>
-        About Myself</h2>
+     <h2> Resume </h2>
 
     <p>
 
@@ -18,7 +17,7 @@
          <li> Microsoft Word,Excel  </li>
         <li>Lotus Notes</li> 
          <br />
-         Software
+         SOFTWARE
          <br />
         <li> People Soft   </li> 
          <li>Singularity</li>

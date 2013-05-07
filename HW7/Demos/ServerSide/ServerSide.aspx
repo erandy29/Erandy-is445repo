@@ -2,6 +2,8 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    This is for server side
+    <h2> Server Side Demo  </h2>
+    <br />  
+    This demos is designed to show the user
 
 </asp:Content>
