@@ -4,6 +4,6 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <h2> Server Side Demo  </h2>
     <br />  
-    This demos is designed to show the user
+    This demos is designed to show the user the server side demo.
 
 </asp:Content>
