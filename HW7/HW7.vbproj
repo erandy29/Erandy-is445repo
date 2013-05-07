@@ -103,7 +103,7 @@
     <Content Include="Demos\Layout\StaticStyleSheet.css" />
     <Content Include="Demos\ServerSide\NestedLoop.aspx" />
     <Content Include="Demos\ServerSide\NumberDivision.aspx" />
-    <Content Include="Demos\ServerSide\ServerSide.aspx" />
+    <Content Include="Demos\ServerSide.aspx" />
     <Content Include="About\ery 21.jpg" />
     <Content Include="Web.config" />
     <Content Include="Demos\WebForm.aspx" />
@@ -207,10 +207,10 @@
       <DependentUpon>NumberDivision.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
-    <Compile Include="Demos\ServerSide\ServerSide.aspx.designer.vb">
+    <Compile Include="Demos\ServerSide.aspx.designer.vb">
       <DependentUpon>ServerSide.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Demos\ServerSide\ServerSide.aspx.vb">
+    <Compile Include="Demos\ServerSide.aspx.vb">
       <DependentUpon>ServerSide.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
