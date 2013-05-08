@@ -2,9 +2,9 @@
        margin-left: auto;
        margin-right: auto;
 }
-header
+header.static
 {
-    width:720px;
+    width:800px;
     background-color:#191970;
     text-align: center;
     color: white ;
@@ -12,42 +12,45 @@ header
     }
  nav
  {
-     width: 680px;
+     width: 760px;
      background-color:#ADFF2F;
      text-align: center;
      height: 30px;
  }
  
  nav li
-{ display: inline;
-  margin: 30px;
+{ display: block;
+  float:left;
+  margin: 5px;
 }
 
 na li a:link
 {color: White;}
 
 article
-{width:500px;
+{width:400px;
     background-color: #FF00FF;
     color: White;
 }
 
 article section
 {background-color: #CD853F;
- margin: 20px 0px 20px;
+ margin: 20px 0px 20px ;
  height: 100px;
  color:White;
 }
-aside{width: 400px;
+aside{width: 500px;
       height: 275px;
       color:White;
-      background-color: #20B2AA}
+      background-color: #20B2AA;
+      position:static;
+}
       
       
  footer
- {width: 720px;
+ {width: 800px;
   background-color: #ADFF2F;
-
+  font-size: 20px;
   text-align:center;
   color: white;}
      

@@ -1,7 +1,7 @@
 ﻿
-header
+header.float
 {
-    width:720px;
+    width:800px;
     background-color:#191970;
     text-align: center;
     color: white ;
@@ -9,22 +9,24 @@ header
     }
  nav
  {
-     width: 680px;
+     width: 760px;
      background-color:#ADFF2F;
      text-align: center;
-     height: 30px;
+     height: 15px;
  }
  
  nav li
-{ display: inline;
-  margin: 30px;
+{ display: block;
+  margin: 5px;
+  float: left;
+
 }
 
 na li a:link
 {color: White;}
 
 article
-{width: 720px;
+{width: 400px;
     background-color: #FF00FF;
     color: White;
 }
@@ -38,15 +40,20 @@ article section
 aside{width: 400px;
       height: 275px;
       color:White;
-      background-color: #20B2AA}
+      background-color: #20B2AA;
+      float: right;
+      
+}
       
       
  footer
- {width: 720px;
+ {width: 800px;
   background-color: #ADFF2F;
-  height: 40px;
+  height: 5px;
   text-align:center;
-  color: white;}
+  color: white; 
+  clear:both;
+ }
 
 article
 {float: left;
@@ -55,6 +62,4 @@ article
 aside
 {float: right; 
  }
-footer 
-{
-    clear:both; }
+

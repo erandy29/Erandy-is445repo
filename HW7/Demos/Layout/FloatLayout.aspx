@@ -10,7 +10,7 @@
    
 
   
-  <header>&lt;Header&gt;</header>
+  <header class="float">&lt;Header&gt;</header>
 
   <nav>
     <ul>

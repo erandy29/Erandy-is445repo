@@ -6,7 +6,7 @@
 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <header>&lt;Header&gt;</header>
+    <header class="static">&lt;Header&gt;</header>
 
 
 <nav>

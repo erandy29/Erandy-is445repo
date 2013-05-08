@@ -45,7 +45,7 @@ nav li	{
 	padding:0px 20px;
 	}
 
-navigation a: hover {
+navigation a hover {
     text-decoration: underline;
     color: red;
     text-transform: uppercase;
@@ -90,27 +90,7 @@ div.mainbody {
         
 
     
-    body footer	{
-	border-top-style:double;
-	margin: 0px;
-	padding: 20px 0px 0px 0px;
-	font-size: .7em;
-    clear: both;
-	}
-
-footer ul {
-	list-style-type:none;
-	margin:0;
-	padding:0;
-	overflow:hidden;
-	}
-footer li
-	{
-	float:left;
-	display:inline;
-	padding:0px 20px;
-   height: 38px;
-   width: 148px;}
+    
    
    
     /*foto*/

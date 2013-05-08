@@ -1,6 +1,6 @@
 ﻿header.absolute
 {
-    width:720px;
+    width:800px;
     background-color:#191970;
     text-align: center;
     color: white ;
@@ -35,8 +35,8 @@ article section
  height: 100px;
  color:blue;
 }
-aside{width: 575px;
-      height: 275px;
+aside{width: 570px;
+      height: 257px;
       color:White;
       background-color: #20B2AA;
       position:absolute;
@@ -46,14 +46,37 @@ aside{width: 575px;
       
       
  footer
- {width: 575px;
+ {width: 800px;
   background-color: #ADFF2F;
   height: 5px;
   text-align:center;
   display:block;
-  font-size: 20px;
-clear:right;
-float: right;
-  color: white;}
 
+  
+float: left;
+  color: white;
+
+ }
+
+ body footer	{
+	border-top-style:double;
+	margin: 0px;
+	padding: 20px 0px 0px 0px;
+	font-size: 15px;
+    clear: both;
+	}
+
+footer ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	}
+footer li
+	{
+	float:left;
+	display:inline;
+	padding:0px 20px;
+   height: 38px;
+   width: 148px;}
 
