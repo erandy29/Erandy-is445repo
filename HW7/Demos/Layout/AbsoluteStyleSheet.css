@@ -31,11 +31,11 @@ nav.absolute
 { float:left;
   display: inline;
   margin: 5px;
-  color:white;
 }
 
-na li a:link
-{color: White;}
+na li a:link {
+    color: #FF00FF;
+}
 
 article.absolute
 {width: 400px;
