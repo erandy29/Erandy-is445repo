@@ -17,7 +17,7 @@ text-align: center;
 } */
 
 
-nav
+nav.absolute
  {
      width: 800px;
      background-color:#ADFF2F;
@@ -36,20 +36,20 @@ nav
 na li a:link
 {color: White;}
 
-article
+article.absolute
 {width: 400px;
     background-color: #FF00FF;
     color: White;   
     float: left;
 }
 
-article section
+article section.absolute
 {background-color: #CD853F;
  margin: 20px 0px 0px;
  height: 80px;
  color:blue;
 }
-aside {
+aside.absolute {
     width: 400px;
     height: 216px;
     color: White;

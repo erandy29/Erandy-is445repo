@@ -24,15 +24,15 @@
 
   </nav>
 
-  <article> &lt;My Article&gt;
+  <article class="float"> &lt;My Article&gt;
 
-    <section>&lt;Section One&gt;</section>
+    <section class="float">&lt;Section One&gt;</section>
   
-    <section>&lt;Section Two&gt;</section>
+    <section class="float">&lt;Section Two&gt;</section>
   
   </article>
 
-  <aside>&lt;Aside&gt;</aside>
+  <aside class="float">&lt;Aside&gt;</aside>
   <footer class="float">&lt;Footer&gt;</footer>
 
 

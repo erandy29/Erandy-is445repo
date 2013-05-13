@@ -26,20 +26,21 @@ header.float
 na li a:link
 {color: White;}
 
-article
+article.float
 {width: 400px;
     background-color: #FF00FF;
     color: White;
     float: left;
 }
 
-article section
+article section.float
 {background-color: #CD853F;
  margin: 20px 0px 20px;
  height: 100px;
  color:White;
 }
-aside{width: 400px;
+aside.float
+{width: 400px;
       height: 275px;
       color:White;
       background-color: #20B2AA;

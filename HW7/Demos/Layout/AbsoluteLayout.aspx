@@ -14,8 +14,8 @@
 
   <header class="absolute">&lt;Header&gt;</header>
 
-  <nav>
-    <ul>
+  <nav class="absolute">
+    <ul class="absolute">
       <li><a href="index.html">Home</a></li>
       <li><a href="StaticPage.htm">Static Layout</a></li>
 	  <li><a href="AbsolutePage.htm">Absolute Layout</a></li>
@@ -25,12 +25,12 @@
      
     </ul>
   </nav>
-  <article> &lt;My Article&gt;
-    <section>&lt;Section One&gt;</section>
-    <section>&lt;Section Two&gt;</section>
+  <article class="absolute"> &lt;My Article&gt;
+    <section class="absolute">&lt;Section One&gt;</section>
+    <section class="absolute">&lt;Section Two&gt;</section>
   </article>
 
-  <aside>&lt;Aside&gt;</aside>
+  <aside class="absolute">&lt;Aside&gt;</aside>
   <footer class="absolute"> &lt;Footer&gt;</footer>
 
 
