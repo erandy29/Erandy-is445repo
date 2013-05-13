@@ -17,24 +17,23 @@ text-align: center;
 } */
 
 
-nav.absolute
- {
-     width: 800px;
-     background-color:#ADFF2F;
-     text-align: center;
-     height: 30px;
-     padding: 0px 0px;
-     
- }
+nav.absolute {
+    width: 800px;
+    background-color: #ADFF2F;
+    text-align: center;
+    height: 30px;
+    padding: 0px 0px;
+}
  
  nav.absolute li
 { float:left;
   display: inline;
   margin: 5px;
+ 
 }
 
 na li a:link {
-    color: #FF00FF;
+    color: white;
 }
 
 article.absolute

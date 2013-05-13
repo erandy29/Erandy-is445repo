@@ -40,7 +40,7 @@ nav li	{
 	float:right;
 	display:inline;
 	padding:0px 20px;
-    color: white
+    color: white;
 	}
 
 navigation a hover {
@@ -48,12 +48,13 @@ navigation a hover {
     color: red;
     text-transform: uppercase;
 }
-
+/*this is for navigation on top of the page the turquoise nav*/
 div.nav li
 {
-    padding: 0px 50.5px;
+    padding: 10px 50.5px;
     background-color: #009999;
-    
+    color: white;
+    font-size: medium;
 }
 
 div.nav a:visited
