@@ -75,7 +75,7 @@ div.sidenav
 {
     width: 200px;
     margin: auto;
-    background-color: #66FFFF ;
+    background-color: #66FFFF 
 }
 
 /*this is the css for the main body*/
@@ -87,7 +87,12 @@ div.mainbody {
     float: left;
    
 }
-
+div.information {
+    width: 800px;
+    height: 300px;
+    font-size: medium;
+   border: 1px solid black;
+}
   /*footer code*/
         
   
