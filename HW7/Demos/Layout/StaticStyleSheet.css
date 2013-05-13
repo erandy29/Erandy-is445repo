@@ -1,7 +1,10 @@
-﻿body { width: 1120px;
+﻿/*body { width: 1120px;
        margin-left: auto;
-       margin-right: auto;
+       margin-right: auto;*/
+main {
+    padding: 0px;
 }
+
 header.static
 {
     width:800px;
@@ -15,39 +18,43 @@ header.static
      width: 760px;
      background-color:#ADFF2F;
      text-align: center;
-     height: 30px;
+     height: 30px; 
+     padding: 0px 0px;
  }
  
- nav li
-{ display: block;
+ nav.static li
+{ display: inline;
   float:left;
-  margin: 5px;
+  margin: 5px
 }
 
 na li a:link
 {color: White;}
 
-article
+article.static
 {width:400px;
     background-color: #FF00FF;
     color: White;
+    float: left;
 }
 
-article section
+article section.static
 {background-color: #CD853F;
  margin: 20px 0px 20px ;
  height: 80px;
  color:White;
 }
-aside{width: 400px;
+aside.static
+{width: 400px;
       height: 216px;
       color:White;
       background-color: #20B2AA;
       position:static;
+      float: right;
 }
       
       
- footer
+ footer.static
  {width: 800px;
   background-color: #ADFF2F;
   font-size: 14px;

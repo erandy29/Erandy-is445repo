@@ -10,29 +10,29 @@
 
 
 <nav class="static">
-<ul>
+<ul class="static">
 
-      <li> <a href="index.html">Home</a></li>
+      <li class="static"> <a href="index.html">Home</a></li>
 
-      <li><a href="StaticPage.htm">Static Layout</a></li>
+      <li class="static"><a href="StaticPage.htm">Static Layout</a></li>
 
-	  <li><a href="AbsolutePage.htm">Absolute Layout</a></li>
+	  <li class="static"><a href="AbsolutePage.htm">Absolute Layout</a></li>
 
-      <li><a href="RelativePage.htm">Relative Layout</a></li>
+      <li class="static"><a href="RelativePage.htm">Relative Layout</a></li>
       
-      <li><a href="FloatPage.htm">Float Layout</a></li>
+      <li class="static"><a href="FloatPage.htm">Float Layout</a></li>
 </ul>
 </nav>
 
- <article>
+ <article class="static">
 
  &lt;My Article&gt;
-  <section>&lt;Section One&gt;</section>
-    <section>&lt;Section Two&gt;</section>
+  <section class="static">&lt;Section One&gt;</section>
+    <section class="static">&lt;Section Two&gt;</section>
     
  </article>   
 
-  <aside>&lt;Aside&gt;</aside>
+  <aside class="static">&lt;Aside&gt;</aside>
   <footer class="static">&lt;Footer&gt;</footer>
  
 
