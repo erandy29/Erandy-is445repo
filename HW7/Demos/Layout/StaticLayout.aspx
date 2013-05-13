@@ -9,7 +9,7 @@
     <header class="static">&lt;Header&gt;</header>
 
 
-<nav>
+<nav class="static">
 <ul>
 
       <li> <a href="index.html">Home</a></li>

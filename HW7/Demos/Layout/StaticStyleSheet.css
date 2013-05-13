@@ -10,7 +10,7 @@ header.static
     color: white ;
     height: 30px
     }
- nav
+ nav.static
  {
      width: 760px;
      background-color:#ADFF2F;
