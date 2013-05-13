@@ -19,6 +19,8 @@ header.static
      text-align: center;
      height: 30px; 
      padding: 0px 0px;
+     color: red;
+     
  }
  
  nav.static li
