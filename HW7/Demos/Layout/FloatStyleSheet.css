@@ -29,6 +29,7 @@ article
 {width: 400px;
     background-color: #FF00FF;
     color: White;
+    float: left;
 }
 
 article section
@@ -49,17 +50,12 @@ aside{width: 400px;
  footer
  {width: 800px;
   background-color: #ADFF2F;
-  height: 5px;
+  height: 15px;
   text-align:center;
   color: white; 
   clear:both;
  }
 
-article
-{float: left;
- }
 
-aside
-{float: right; 
- }
+
 

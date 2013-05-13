@@ -6,12 +6,23 @@
     color: white ;
     height: 30px
     }
- nav
+
+/*nav a 
+{font-size: 14px;
+ text-decoration:underline;
+text-align: center;
+ width:80px;
+ height: 15px;
+ color: red;
+} */
+
+
+nav
  {
-     width: 800px;
+     width: 760px;
      background-color:#ADFF2F;
      text-align: center;
-     height: 30px;
+     height: 10px;
  }
  
  nav li
@@ -24,30 +35,35 @@ na li a:link
 {color: White;}
 
 article
-{width: 425px;
+{width: 400px;
     background-color: #FF00FF;
-    color: White;
+    color: White;   
+    float: left;
 }
 
 article section
 {background-color: #CD853F;
  margin: 20px 0px 0px;
- height: 100px;
+ height: 80px;
  color:blue;
 }
 aside {
-    width: 370px;
-    height: 250px;
+    width: 400px;
+    height: 275px;
     color: White;
     background-color: #20B2AA;
+    float: right;
 }
       
       
  footer
  {width: 800px;
   background-color: #ADFF2F;
-  height: 30px;
+  height: 40px;
   text-align:center;
   color: white;
 
  }
+
+
+ 
