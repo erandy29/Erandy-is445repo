@@ -31,6 +31,7 @@ nav.absolute
 { float:left;
   display: inline;
   margin: 5px;
+  color:white;
 }
 
 na li a:link
@@ -47,11 +48,11 @@ article section.absolute
 {background-color: #CD853F;
  margin: 20px 0px 0px;
  height: 100px;
- color:blue;
+ color:white;
 }
 aside.absolute {
     width: 400px;
-    height: 255px;
+    height: 256px;
     color: White;
     background-color: #20B2AA;
     float: right;
