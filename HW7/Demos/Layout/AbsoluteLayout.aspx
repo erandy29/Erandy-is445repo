@@ -29,8 +29,9 @@
     <section>&lt;Section One&gt;</section>
     <section>&lt;Section Two&gt;</section>
   </article>
+
   <aside>&lt;Aside&gt;</aside>
-  <footer>Footer</footer>
+  <footer class="absolute"> &lt;Footer&gt;</footer>
 
 
 

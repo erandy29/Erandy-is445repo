@@ -56,38 +56,15 @@ aside {
 }
       
       
- footer.absolute /*#ADFF2F*/
- {width: 760px;
-  background-color:red ;
-  height: 10px;
+ footer.absolute 
+ {width: 800px;
+  background-color:#ADFF2F;
+  height: 14px;
   text-align:center;
   color: white;
   clear:both;
  }
-  /*footer code*    
-        
-  
- body footer	{
-	
-	margin: 0px;
-	padding: 20px 0px 0px 0px;
-	font-size: 15px;
-    clear: both;
-	}
 
-footer ul {
-	list-style-type:none;
-	margin:0;
-	padding:0;
-	overflow:hidden;
-	}
-footer li
-	{
-	float:left;
-	display:inline;
-	padding:0px 20px;
-   height: 10px;
-   width: 148px;}
 
 
 

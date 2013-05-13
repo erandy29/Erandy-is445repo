@@ -33,7 +33,7 @@
   </article>
 
   <aside>&lt;Aside&gt;</aside>
-  <footer>&lt;Footer&gt;</footer>
+  <footer class="float">&lt;Footer&gt;</footer>
 
 
    
