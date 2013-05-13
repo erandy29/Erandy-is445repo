@@ -27,7 +27,7 @@ nav.absolute
      
  }
  
- nav li
+ nav.absolute li
 { float:left;
   display: inline;
   margin: 5px;

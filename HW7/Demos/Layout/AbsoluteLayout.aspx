@@ -16,11 +16,11 @@
 
   <nav class="absolute">
     <ul class="absolute">
-      <li><a href="index.html">Home</a></li>
-      <li><a href="StaticPage.htm">Static Layout</a></li>
-	  <li><a href="AbsolutePage.htm">Absolute Layout</a></li>
-      <li><a href="RelativePage.htm">Relative Layout</a></li>
-      <li><a href="FloatPage.htm">Float Layout</a></li>
+      <li class="absolute"><a href="index.html">Home</a></li>
+      <li class="absolute"><a href="StaticPage.htm">Static Layout</a></li>
+	  <li class="absolute"><a href="AbsolutePage.htm">Absolute Layout</a></li>
+      <li class="absolute"><a href="RelativePage.htm">Relative Layout</a></li>
+      <li class="absolute"><a href="FloatPage.htm">Float Layout</a></li>
 
      
     </ul>
