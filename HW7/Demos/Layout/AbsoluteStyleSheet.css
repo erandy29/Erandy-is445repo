@@ -1,4 +1,16 @@
-﻿header.absolute
+﻿body {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+main {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+
+header.absolute
 {
     width:800px;
     background-color:#191970;
@@ -26,7 +38,7 @@ nav.absolute {
 }
  
  nav.absolute li
-{ float:left;
+{ 
   display: inline;
   margin: 5px;
  
@@ -50,11 +62,14 @@ article section.absolute
  color:white;
 }
 aside.absolute {
-    width: 400px;
+    width: 650px;
     height: 256px;
     color: White;
     background-color: #20B2AA;
-    float: right;
+    position:absolute;
+    top:630px;
+    top:280px;
+    
 }
       
       
