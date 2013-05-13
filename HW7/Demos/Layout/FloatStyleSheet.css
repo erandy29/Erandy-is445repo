@@ -7,13 +7,13 @@ header.float
     color: white ;
     height: 30px
     }
- nav
+ nav.float
  {
      width: 800px;
      background-color:#ADFF2F;
      text-align: center;
-     height: 15px;
-     padding: 0px 0px;
+     height: 30px;
+     
  }
  
  nav li

@@ -12,8 +12,8 @@
   
   <header class="float">&lt;Header&gt;</header>
 
-  <nav>
-    <ul>
+  <nav class="float">
+    <ul class="float">
        <li><a href="index.html">Home</a></li>
       <li><a href="StaticPage.htm">Static Layout</a></li>
 	  <li><a href="AbsolutePage.htm">Absolute Layout</a></li>
