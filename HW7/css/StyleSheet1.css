@@ -82,7 +82,7 @@ div.sidenav
 
 div.mainbody {
     width: 800px;
-    height: 363px;
+    height: auto;
     background-color: pink;
     float: left;
     border: 2px solid black;
@@ -151,11 +151,13 @@ hr{
        font-size: 20px;
  }
 img.me {
-    width: 200px;
+    width: 156px;
     float: right;
-
+    height: 142px;
 }
-#incorrect {color:Red;}
+#incorrect {
+    color: #99FF33;
+}
 h3 {border-style: solid;
     padding: 12px;
     border-color: Green; }

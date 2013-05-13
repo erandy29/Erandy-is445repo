@@ -4,6 +4,8 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
     <h2>Contact Information</h2>
+    <br />
+
 
     Thank You for taking your time to look at my website.
     If you are interested please contact me.
