@@ -13,7 +13,7 @@ header.float
      background-color:#ADFF2F;
      text-align: center;
      height: 30px;
-     
+     padding: 0px;
  }
  
  nav li
@@ -55,6 +55,10 @@ aside{width: 400px;
   text-align:center;
   color: white; 
   clear:both;
- }
+ padding: 0px;
+ font-size: medium;
+  }
+
+
 
 
