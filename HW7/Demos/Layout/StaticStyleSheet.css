@@ -19,7 +19,7 @@ header.static
      text-align: center;
      height: 30px; 
      padding: 0px 0px;
-     color: red;
+     
      
  }
  
@@ -29,7 +29,7 @@ header.static
   margin: 5px
 }
 
-na li a:link
+na li.static a:link
 {color: White;}
 
 article.static
