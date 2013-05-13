@@ -78,11 +78,13 @@ div.sidenav
     background-color: #66FFFF ;
 }
 
+/*this is the css for the main body*/
 
 div.mainbody {
     width: 800px;
     background-color: pink;
     float: left;
+
 }
 
   /*footer code*/
@@ -134,11 +136,13 @@ hr{
 	color:#009999;
 	padding: 0;
         }
-
+/*this is for the titles in each page*/
  h2 {
     text-align: center;
-    color: #990099;
+    color: #006699;
     font-size: 35px;
+    font-style:italic;
+
 }
  
  h4{text-align:center;
