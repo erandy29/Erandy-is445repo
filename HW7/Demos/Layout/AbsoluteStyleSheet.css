@@ -62,13 +62,11 @@ article section.absolute
  color:white;
 }
 aside.absolute {
-    width: 650px;
+    width: 400px;
     height: 256px;
     color: White;
     background-color: #20B2AA;
-    position:absolute;
-    top:630px;
-    top:280px;
+    
     
 }
       
