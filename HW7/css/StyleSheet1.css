@@ -84,7 +84,7 @@ div.mainbody {
     width: 800px;
     background-color: pink;
     float: left;
-
+    border: 1px solid black;
 }
 
   /*footer code*/
