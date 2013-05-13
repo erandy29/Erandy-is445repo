@@ -60,9 +60,10 @@ div.nav li
 div.nav a:visited
 {color: white;}
 
-div.nav a:hover
-{background-color:lavender;
-    color: black;}
+div.nav a:hover {
+    background-color: #FF00FF;
+    color: black;
+}
 
 div.nav a:link
 
