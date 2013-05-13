@@ -49,21 +49,46 @@ article section
 }
 aside {
     width: 400px;
-    height: 275px;
+    height: 215px;
     color: White;
     background-color: #20B2AA;
     float: right;
 }
       
       
- footer
- {width: 800px;
-  background-color: #ADFF2F;
-  height: 40px;
+ footer.absolute /*#ADFF2F*/
+ {width: 760px;
+  background-color:red ;
+  height: 10px;
   text-align:center;
   color: white;
-
+  clear:both;
  }
+  /*footer code*    
+        
+  
+ body footer	{
+	
+	margin: 0px;
+	padding: 20px 0px 0px 0px;
+	font-size: 15px;
+    clear: both;
+	}
+
+footer ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	}
+footer li
+	{
+	float:left;
+	display:inline;
+	padding:0px 20px;
+   height: 10px;
+   width: 148px;}
+
 
 
  

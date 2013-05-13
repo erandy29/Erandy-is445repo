@@ -64,6 +64,7 @@ div.nav a:hover
     color: black;}
 
 div.nav a:link
+
 {color: white;}
 
 
@@ -82,13 +83,11 @@ div.mainbody {
     float: left;
 }
 
-
-
- /*footer code*/       
+  /*footer code*/
         
-  /*
+  
  body footer	{
-	border-top-style:double;
+	
 	margin: 0px;
 	padding: 20px 0px 0px 0px;
 	font-size: 15px;
@@ -101,13 +100,18 @@ footer ul {
 	padding:0;
 	overflow:hidden;
 	}
+
+/*
 footer li
 	{
 	float:left;
 	display:inline;
 	padding:0px 20px;
-   height: 38px;
+   height: 10px;
    width: 148px;}
+    */
+
+
 
     
    
