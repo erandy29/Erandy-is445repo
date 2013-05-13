@@ -8,7 +8,7 @@
     }
  nav
  {
-     width: 760px;
+     width: 800px;
      background-color:#ADFF2F;
      text-align: center;
      height: 30px;
@@ -16,7 +16,7 @@
  
  nav li
 { float:left;
-  display: block;
+  display: inline;
   margin: 5px;
 }
 
@@ -24,24 +24,22 @@ na li a:link
 {color: White;}
 
 article
-{width: 230px;
+{width: 425px;
     background-color: #FF00FF;
     color: White;
 }
 
 article section
 {background-color: #CD853F;
- margin: 20px 0px 20px;
+ margin: 20px 0px 0px;
  height: 100px;
  color:blue;
 }
-aside{width: 570px;
-      height: 257px;
-      color:White;
-      background-color: #20B2AA;
-      position:absolute;
-       left: 720px;
-       top: 275px;
+aside {
+    width: 370px;
+    height: 250px;
+    color: White;
+    background-color: #20B2AA;
 }
       
       
@@ -50,7 +48,6 @@ aside{width: 570px;
   background-color: #ADFF2F;
   height: 30px;
   text-align:center;
-  display:block;
   color: white;
 
  }
