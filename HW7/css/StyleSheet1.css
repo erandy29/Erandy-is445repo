@@ -51,7 +51,7 @@ navigation a hover {
 /*this is for navigation on top of the page the turquoise nav*/
 div.nav li
 {
-    padding: 10px 50.5px;
+    padding: 10px 51px;
     background-color: #009999;
     color: white;
     font-size: medium;
@@ -82,9 +82,10 @@ div.sidenav
 
 div.mainbody {
     width: 800px;
+    height: 363px;
     background-color: pink;
     float: left;
-    border: 1px solid black;
+    border: 2px solid black;
 }
 
   /*footer code*/

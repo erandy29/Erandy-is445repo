@@ -3,8 +3,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
      <h2> Resume </h2>
-
-    <p>
+<p>
 
         &nbsp;<img class="me" alt="" src="ery%2021.jpg" /></p>
     <p class="em">
@@ -24,12 +23,11 @@
         <li> OCR, SAP   </li> 
          <br />
          Education 
-    </p>
-    <ul> 
-        <li>
+     <p>
             2013, BA Psychology with IS Minor 
                 
-        </li>
+        </p>
+    <ul> 
 
           <li>  2009 AA. Cerritos College
                 
