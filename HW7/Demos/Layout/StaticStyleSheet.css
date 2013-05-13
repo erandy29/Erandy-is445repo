@@ -36,11 +36,11 @@ article
 article section
 {background-color: #CD853F;
  margin: 20px 0px 20px ;
- height: 100px;
+ height: 80px;
  color:White;
 }
-aside{width: 500px;
-      height: 275px;
+aside{width: 400px;
+      height: 216px;
       color:White;
       background-color: #20B2AA;
       position:static;
@@ -50,7 +50,7 @@ aside{width: 500px;
  footer
  {width: 800px;
   background-color: #ADFF2F;
-  font-size: 20px;
+  font-size: 14px;
   text-align:center;
   color: white;}
      
