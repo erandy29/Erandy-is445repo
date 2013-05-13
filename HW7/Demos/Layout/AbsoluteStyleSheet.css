@@ -48,35 +48,9 @@ aside{width: 570px;
  footer
  {width: 800px;
   background-color: #ADFF2F;
-  height: 5px;
+  height: 30px;
   text-align:center;
   display:block;
-
-  
-float: left;
   color: white;
 
  }
-
- body footer	{
-	border-top-style:double;
-	margin: 0px;
-	padding: 20px 0px 0px 0px;
-	font-size: 15px;
-    clear: both;
-	}
-
-footer ul {
-	list-style-type:none;
-	margin:0;
-	padding:0;
-	overflow:hidden;
-	}
-footer li
-	{
-	float:left;
-	display:inline;
-	padding:0px 20px;
-   height: 38px;
-   width: 148px;}
-
