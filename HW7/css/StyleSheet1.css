@@ -99,7 +99,7 @@ div.information {
 
 div.resform {
     width: 800px;
-    height: 500px;
+    height: 520px;
     background-color: white;
     float: left;
     border: 2px solid black;
@@ -179,6 +179,10 @@ img.me {
 h3 {border-style: solid;
     padding: 12px;
     border-color: Green; }
-      
+
+p.em {
+    font-style: italic;
+    font-weight: bold;
+}
 
        

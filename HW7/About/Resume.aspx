@@ -8,7 +8,7 @@
     <p>
 
         &nbsp;<img class="me" alt="" src="ery%2021.jpg" /></p>
-    <p class="em">
+
         &nbsp;</p>
      <p class="em">
         STRENGHTS
@@ -17,16 +17,18 @@
         <li>Type 45wpm</li> 
          <li> Microsoft Word,Excel  </li>
         <li>Lotus Notes</li> 
+        </p>
          <br />
+         <p class="em">
          SOFTWARE
          <br />
         <li> People Soft   </li> 
          <li>Singularity</li>
         <li> OCR, SAP   </li> 
          <br />
-         Education 
+         <p class="em">EDUCATION
     </p>
-    <ul> 
+    
         <li>
             2013, BA Psychology with IS Minor 
                 
@@ -39,23 +41,21 @@
             <li>
                 2000 North Canyon High </li>
   
-                  </ul>
+                  
     <p class="em">
-        Working Experience</p>
-    <ol>
+        WORKING EXPERIENCE</p>
+    
         <li>
-            <p>
-                Imaging Technitian, CSULB, 7yrs</p>
-        </li>
+                Imaging Technitian, CSULB, 7yr</li>
         <li>
-            <p >
-                Human Resources Tech, Pentair Water, 2yrs</p>
+                Human Resources Tech, Pentair Water, 2yrs
         </li>
-    </ol>
-    <p class="em">
-        Expectation for this Course
-    <p/>
+    
+                <p class="em">
+        EXPECTATION FOR THIS COURSE
+                <p/>
         I would like to be able to create a website by myself and understand coding so 
         that I can obtain an intership and later obtain a job as a programmer.</p/>
+        </li>
         </div>
 </asp:Content>
