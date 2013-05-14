@@ -25,11 +25,16 @@
          <br />
         <li> People Soft   </li> 
          <li>Singularity</li>
-        <li> OCR, SAP   </li> 
-         <br />
-         <p class="em">EDUCATION
-    </p>
-    <br />
+        <li> OCR, SAP </li> 
+        
+                <br />
+            
+            <p class="em">
+                 <br/>
+                 EDUCATION
+                <br />
+             </p>
+             <br />
         <li>
             2013, BA Psychology with IS Minor 
                 
@@ -41,9 +46,10 @@
             
             <li>
                 2000 North Canyon High </li>
-  <br />
+  
                   
     <p class="em">
+        <br />
         WORKING EXPERIENCE</p>
     <br />
         <li>
