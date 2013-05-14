@@ -41,11 +41,11 @@
             
             <li>
                 2000 North Canyon High </li>
-  
+  <br />
                   
     <p class="em">
         WORKING EXPERIENCE</p>
-    
+    <br />
         <li>
                 Imaging Technitian, CSULB, 7yr</li>
         <li>
@@ -53,8 +53,10 @@
         </li>
     
                 <p class="em">
+                    <br />
         EXPECTATION FOR THIS COURSE
-                <p/>
+                     <p/>
+                    <br />
         I would like to be able to create a website by myself and understand coding so 
         that I can obtain an intership and later obtain a job as a programmer.</p/>
         </li>
