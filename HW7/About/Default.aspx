@@ -2,7 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-   
+   <div class="information">
 <h2>  About Myself </h2>
     <br />
     This project was created in order to show key strenghts that I possess for success in a  position that includes, but is not limited to the followoing:
@@ -23,4 +23,5 @@
     <br />
 
     Erandy Fuentes
+       </div>
 </asp:Content>
