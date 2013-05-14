@@ -2,10 +2,10 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <div class="information">
      <h2> Resume </h2>
 <p>
-
-        &nbsp;<img class="me" alt="" src="ery%2021.jpg" /></p>
+ &nbsp;<img class="me" alt="" src="ery%2021.jpg" /></p>
     <p class="em">
         &nbsp;</p>
      <p class="em">
@@ -23,13 +23,11 @@
         <li> OCR, SAP   </li> 
          <br />
          Education 
-     <p>
-            2013, BA Psychology with IS Minor 
+     <p> 2013, BA Psychology with IS Minor 
                 
         </p>
     <ul> 
-
-          <li>  2009 AA. Cerritos College
+ <li>  2009 AA. Cerritos College
                 
          </li>
             
@@ -54,4 +52,5 @@
     <p/>
         I would like to be able to create a website by myself and understand coding so 
         that I can obtain an intership and later obtain a job as a programmer.</p/>
+         </div>
 </asp:Content>
