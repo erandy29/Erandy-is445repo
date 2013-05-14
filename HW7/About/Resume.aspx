@@ -2,7 +2,8 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-     <h2> Resume </h2>
+    <div class ="resform">
+    <h2> Resume </h2>
 
     <p>
 
@@ -56,4 +57,5 @@
     <p/>
         I would like to be able to create a website by myself and understand coding so 
         that I can obtain an intership and later obtain a job as a programmer.</p/>
+        </div>
 </asp:Content>

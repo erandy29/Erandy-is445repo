@@ -2,7 +2,8 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-        <h2>Welcome to my Web Form</h2>
+    <div class="resform">  
+    <h2>Welcome to my Web Form</h2>
         <h4> A Demo Form for a Hotel Room Reservation</h4>
 
  
@@ -74,4 +75,5 @@ Enter your special notes here
 <button type="submit">Request Reservation</button>
 
 </form>
+    </div>  
 </asp:Content>

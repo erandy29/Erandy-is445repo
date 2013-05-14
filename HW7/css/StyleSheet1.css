@@ -96,6 +96,16 @@ div.information {
    float:left;
    background-color: white;
 }
+
+div.resform {
+    width: 800px;
+    height: 500px;
+    background-color: white;
+    float: left;
+    border: 2px solid black;
+}
+
+
   /*footer code*/
         
   
@@ -170,4 +180,5 @@ h3 {border-style: solid;
     padding: 12px;
     border-color: Green; }
       
+
        
