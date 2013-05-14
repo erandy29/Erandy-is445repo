@@ -2,7 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server"> 
-    <div class="body">
+    <div class="information">
     <h2>The Layouts Demo</h2>
     <br />
     This Website shows different types of layouts. The goal is to produce a natural flow page layout for a typical Web page using either the 
