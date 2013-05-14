@@ -20,7 +20,8 @@
         </p>
          <br />
          <p class="em">
-         SOFTWARE
+          SOFTWARE
+            <p class="em">
          <br />
         <li> People Soft   </li> 
          <li>Singularity</li>
@@ -28,7 +29,7 @@
          <br />
          <p class="em">EDUCATION
     </p>
-    
+    <br />
         <li>
             2013, BA Psychology with IS Minor 
                 
